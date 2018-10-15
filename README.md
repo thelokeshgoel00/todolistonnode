@@ -14,7 +14,7 @@ type in your browser localhost:8081
 
 
 
-if you want to skip all this then just run the login.html on your browser and you are good to go.
+if you want to skip all this then just run the loginform.html on your browser and you are good to go.
 here also all the files need to be in 1 folder
 
 username is "lokesh"
